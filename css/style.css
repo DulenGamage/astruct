@@ -501,7 +501,7 @@ a[href^=tel] {
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Custom", sans-serif;
   transition: 350ms;
   font-size: 14px;
 }
@@ -798,7 +798,7 @@ ul.top-info-box li .info-box span.info-icon {
 
 ul.top-info-box li .info-box .info-box-content {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Custom", sans-serif;
   flex-direction: column;
 }
 
